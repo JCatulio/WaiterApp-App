@@ -1,21 +1,21 @@
 export const categories = [
   {
-    _id: '6372d595f9ebdda354700c8d',
+    _id: '639f099bd813c1409a4a0590',
     name: 'Pizzas',
     icon: '🍕',
   },
   {
-    _id: '6372d5bff9ebdda354700c90',
+    _id: '639f09d6d813c1409a4a0592',
     name: 'Bebidas',
     icon: '🍻',
   },
   {
-    _id: '6372d5d2f9ebdda354700c92',
+    _id: '639f09f6d813c1409a4a0594',
     name: 'Burgers',
     icon: '🍔',
   },
   {
-    _id: '6372d5dcf9ebdda354700c94',
+    _id: '639f0a1dd813c1409a4a0596',
     name: 'Promoções',
     icon: '🏷',
   },
